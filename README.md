@@ -210,3 +210,10 @@ On this project, the missing record-item pool was the difference between:
 and:
 
 - real working Bluetooth Classic SPP.
+
+## Credits
+
+Notes and source examples authored with AI assistance from:
+
+- [Claude](https://claude.ai) (Anthropic)
+- [Codex](https://openai.com/codex) (OpenAI)
